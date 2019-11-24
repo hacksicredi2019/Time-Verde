@@ -1,0 +1,46 @@
+.search {
+  margin-left: 10px;
+}
+
+.actionSearch{
+  display: flex;
+}
+
+.toolbar.toolbar.toolbar{
+  display: flex;
+  min-height: 100px;
+  justify-content: space-between;
+  padding-left: 0;
+  padding-right: 0;
+}
+
+.checkboxItem.checkboxItem.checkboxItem {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.checkbox.checkbox.checkbox {
+  margin: 20px;
+}
+
+.checkbox > span {
+  pointer-events: none;
+}
+
+.filter.filter.filter {
+  margin: 0px 10px;
+  border-radius: 20px;
+}
+
+.hr {
+    height: 10px;
+    width: 100%;
+    margin-block-start: 0;
+    margin-block-end: 0;
+    margin-inline-end: 0;
+    margin-inline-start: 0;
+    border-width: 0px;
+    background: linear-gradient(to right, #f1a50f 40%, #2d0559 40%, #2d0559 60%, #6c00f3 60%, #6c00f3 70%, #f15b22 70%, #f15b22 90%, #f1ba0e 90%, #f1ba0e 100% );
+}

@@ -1,0 +1,31 @@
+.stars {
+  float: right;
+}
+
+.description {
+  display: inline-block;
+  height: 200px;
+}
+
+.like.like.like {
+  position: absolute;
+  right: 10px;
+  top: 10px;
+  z-index: 1;
+}
+
+.distance.distance.distance {
+  position: absolute;
+  right: 10px;
+  background: white;
+  border-radius: 5px;
+  box-shadow: 1px 1px 5px;
+  padding: 0px 10px;
+  top: 105px;
+}
+
+.item.item.item {
+  position: relative;
+  height: 100%;
+}
+
